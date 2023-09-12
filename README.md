@@ -1,1 +1,1 @@
-# BG3_Anduril
+# Anduril mod for Baldur's Gate 3
