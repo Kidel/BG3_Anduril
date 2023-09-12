@@ -15,7 +15,7 @@ data "Description" "2226a5febg9d2eg43cfg9926gffaef99f7419"
 data "DescriptionParams" "1d6;DealDamage(2d4,Radiant)"
 data "Icon" "PassiveFeature_EntropicWard"
 data "Boosts" "IF(Tagged('ABERRATION') or Tagged('FIEND') or Tagged('UNDEAD')):Advantage(AttackRoll);IF(Tagged('ABERRATION') or Tagged('FIEND') or Tagged('UNDEAD')):RollBonus(Attack,1d6)"
-data "StatsFunctors" "(IF(Tagged('ABERRATION', context.Target) or Tagged('FIEND', context.Target) or Tagged('UNDEAD', context.Target)) and IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(2d4,Radiant)"
+data "StatsFunctors" "IF((Tagged('ABERRATION', context.Target) or Tagged('FIEND', context.Target) or Tagged('UNDEAD', context.Target)) and IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(2d4,Radiant)"
 data "StatsFunctorContext" "OnAttack"
 
 new entry "Lykon_Elven_Light_Passive"
