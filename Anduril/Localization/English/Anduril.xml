@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList date="17/07/2023 12:47">
+
+  <content contentuid="h123456789777777777777777777777777777" version="1">Debug</content>
+	<content contentuid="h123456789777777777777777777777777778" version="1">Debug [1]</content>
+
+  <content contentuid="00a85687f52d9f42e7faa86f6ba6834b5a4af" version="1">This ring looks perfectly plain and featureless, but when cast into fire an inscription appears in fiery letters: "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them".</content> 
+  <content contentuid="fffb99a7fa7c9f4b04f8637f3ae6b0fda9d5f" version="1">The One Ring</content> 
+  <content contentuid="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1">Very bright was that sword when it was made whole again; the light of the sun shone redly in it, and the light of the moon shone cold, and its edge was hard and keen.  And Aragorn gave it a new name and called it Andúril, Flame of the West.</content> 
+  <content contentuid="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1">Andúril</content>
+  <content contentuid="f1a7b944f9835f469cf98b9f18bf196dcfadf" version="1">Andúril (Pact)</content>
+  <content contentuid="8850f8cbfa50af4b93fb460f589c29d4fb6af" version="1">A sword forged by the legendary blacksmith Lykon.  It is said that he made a pact with a sword from the Dark Lands and was attempting to replicate its properties.</content> 
+  <content contentuid="88a7b944f9835f469cf98b9f18bf196dcfadf" version="1">Lykon's Rapier</content>
+
+  <content contentuid="111e54c36g2c00g45e4ga0f9gb85967642cbe" version="1">Reforged from Narsil</content>
+  <content contentuid="2226a5febg9d2eg43cfg9926gffaef99f7419" version="1">Andùril has additional properties that Narsil itself didn't possess.  It gives you an Advantage and an extra [1] on Attack Rolls against all evil.  Evil creatures also suffer an extra [2].</content>
+
+  <content contentuid="773e54c36g2c00g45e4ga0f9gb85967642cbe" version="1">Undead Control</content>
+  <content contentuid="77f6a5febg9d2eg43cfg9926gffaef99f7419" version="1">Force Undead creatures to fight for you.</content>
+  <content contentuid="883e54c36g2c00g45e4ga0f9gb85967642cbe" version="1">Heir of Isildur</content>
+  <content contentuid="88f6a5febg9d2eg43cfg9926gffaef99f7419" version="1">Deal Radiant damage in a wide area.  Evil creatures are also terrified of the true heir of Isildur.</content>
+  <content contentuid="993e54c36g2c00g45e4ga0f9gb85967642cbe" version="1">Invisibility</content>
+  <content contentuid="99f6a5febg9d2eg43cfg9926gffaef99f7419" version="1">Become invisible as long as you want.</content>
+
+  <content contentuid="1234bcbd8gb78eg4cf7g834bge5fb441d1399" version="1">Gift of Light</content>
+
+  <content contentuid="5567bcbd8gb78eg4cf7g834bge5fb441d1399" version="1">Weapon Master Bonus Attack</content>
+  <content contentuid="4567bcbd8gb78eg4cf7g834bge5fb441d1399" version="1">When you land a critical hit or kill a target with any melee weapon attack, you can make another melee weapon attack as a bonus action on that turn.</content>
+  <content contentuid="8910bcbd8gb78eg4cf7g834bge5fb441d1399" version="1">Uses your Charisma modifier. When you land a critical hit or kill a target with any melee weapon attack, you can make another melee weapon attack as a bonus action on that turn.</content>
+
+  New
+
+  <content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+  <content contentuid="6969bcbd8gb78eg4cf7g834bge5fb441d1399" version="1">Andúril gets more powerful with its wielder: at higher levels adds bonus damage, unlocks more powerful skills and the ability to shed light.  The melee attack stat is always the highest between Strength, Dexterity, Charisma and Intelligence of its wielder.</content>
+</contentList>

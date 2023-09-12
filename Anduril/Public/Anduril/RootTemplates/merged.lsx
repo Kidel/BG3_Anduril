@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save> 
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> Ring of Invisibility
+					<attribute id="Description" type="TranslatedString" handle="00a85687f52d9f42e7faa86f6ba6834b5a4af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="fffb99a7fa7c9f4b04f8637f3ae6b0fda9d5f" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9cee9922-77a9-11ec-90d6-0242ac120003" />
+					<attribute id="Name" type="LSString" value="LYKON_Ring_Invisibility" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
+					<attribute id="Icon" type="FixedString" value="LYKON_TheOneRing" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Ring_Invisibility" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+
+				<node id="GameObjects"> Anduril New V3
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="77777777-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_new_v3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_new_v3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+
+
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="6e9f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril" />
+					<attribute id="ParentTemplateId" type="FixedString" value="455383a5-1211-4500-85f9-b71fad3fbf15" />
+					<attribute id="VisualTemplate" type="FixedString" value="877763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="7e9f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="455383a5-1211-4500-85f9-b71fad3fbf15" />
+					<attribute id="VisualTemplate" type="FixedString" value="877763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="779f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_1h" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" /> Longsword
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_1h" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="889f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_1h_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_1h_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="999f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_finesse" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_finesse" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+
+				<node id="GameObjects"> Anduril
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="119f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_finesse_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_finesse_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+
+				<node id="GameObjects"> Anduril (pact)
+					<attribute id="Description" type="TranslatedString" handle="7750f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="f1a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="LYKON_Item_WPN_Anduril" />
+					<attribute id="MapKey" type="FixedString" value="459f3df2-f4fe-4593-8575-655cd502558b" />
+					<attribute id="Name" type="LSString" value="LYKON_Anduril_finesse_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" />
+					<attribute id="VisualTemplate" type="FixedString" value="987763ee-7b6f-4bc5-a55f-45ce870c3777" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Anduril_finesse_4_pact" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+
+				<node id="GameObjects"> Rapier
+					<attribute id="Description" type="TranslatedString" handle="8850f8cbfa50af4b93fb460f589c29d4fb6af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="88a7b944f9835f469cf98b9f18bf196dcfadf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="777662e8-2a7f-4c7e-b0a0-e505395a4777" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1eab180b-5bf9-48ea-aece-7ba20d1deb78" /> or 5a6cea10-b3f6-4370-8eed-0b69b4ba531a
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" /> or rapier c8a89cc2-7213-40d6-f0a0-c0a9d7a26de1
+					<attribute id="ReadinessFlags" type="int64" value="128" />
+					<attribute id="Stats" type="FixedString" value="LYKON_Rapier_Pact" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="777e3532-d9f1-6543-fa4e-2e57db45ed9b" /> rapier c73e3532-d9f1-6543-fa4e-2e57db45ed9b or dagger d735ab2f-a175-9033-de0b-a70d8a81c2d5
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855902" />
+				</node>
+
+
+
+			</children>
+		</node>
+	</region>
+</save>
+

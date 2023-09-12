@@ -1,0 +1,8 @@
+new entry "LYKON_Ring_Invisibility"
+type "Armor"
+using "_Ring"
+data "RootTemplate" "9cee9922-77a9-11ec-90d6-0242ac120003"
+data "ObjectCategory" "Jewelry"
+data "ValueOverride" "2"
+data "Rarity" "Legendary"
+data "Boosts" "Skill(Stealth,3);Skill(SleightOfHand,3);UnlockSpell(LYKON_Target_Invisibility_Superior)"

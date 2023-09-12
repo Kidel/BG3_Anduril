@@ -1,0 +1,15 @@
+function IsDexterityHighestForAnduril()
+    return ConditionResult((context.Source.Dexterity > context.Source.Strength) and (context.Source.Dexterity > context.Source.Intelligence) and (context.Source.Dexterity > context.Source.Charisma))
+end
+
+function IsStrengthHighestForAnduril()
+    return ConditionResult((context.Source.Strength > context.Source.Dexterity) and (context.Source.Strength > context.Source.Intelligence) and (context.Source.Strength > context.Source.Charisma))
+end
+
+function IsIntelligenceHighestForAnduril()
+    return ConditionResult((context.Source.Intelligence > context.Source.Dexterity) and (context.Source.Intelligence > context.Source.Strength) and (context.Source.Intelligence > context.Source.Charisma))
+end
+
+function IsCharismaHighestForAnduril()
+    return ConditionResult((context.Source.Charisma > context.Source.Dexterity) and (context.Source.Charisma > context.Source.Strength) and (context.Source.Charisma > context.Source.Intelligence))
+end

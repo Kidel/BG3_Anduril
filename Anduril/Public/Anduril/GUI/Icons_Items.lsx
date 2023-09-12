@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Anduril_Icons_2.dds"/>
+                    <attribute id="UUID" type="FixedString" value="3f0aac2a-d6c3-48a5-afc6-b2df918fc158"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int64" value="2048"/>
+                    <attribute id="Width" type="int64" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList"> Each move to the right adds 0.03125 to U1 and U2.
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LYKON_Invisible_Woman"/> 140 ROW 5 = 12
+                    <attribute id="U1" type="float" value="0.34375"/> Left
+                    <attribute id="U2" type="float" value="0.375"/> Right
+                    <attribute id="V1" type="float" value="0.125"/> Top
+                    <attribute id="V2" type="float" value="0.15625"/> Bottom
+                </node>	
+				<node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LYKON_Item_WPN_Anduril"/> 
+                    <attribute id="U1" type="float" value="0.8125"/> 
+                    <attribute id="U2" type="float" value="0.84375"/> 
+                    <attribute id="V1" type="float" value="0.375"/>
+                    <attribute id="V2" type="float" value="0.40625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LYKON_Spell_ControlUndead"/> 
+                    <attribute id="U1" type="float" value="0.84375"/> 
+                    <attribute id="U2" type="float" value="0.875"/> 
+                    <attribute id="V1" type="float" value="0.375"/>
+                    <attribute id="V2" type="float" value="0.40625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LYKON_TheOneRing"/> 
+                    <attribute id="U1" type="float" value="0.875"/> 
+                    <attribute id="U2" type="float" value="0.90625"/> 
+                    <attribute id="V1" type="float" value="0.375"/>
+                    <attribute id="V2" type="float" value="0.40625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LYKON_Scare_Fiend"/> 
+                    <attribute id="U1" type="float" value="0.90625"/> 
+                    <attribute id="U2" type="float" value="0.9375"/> 
+                    <attribute id="V1" type="float" value="0.375"/>
+                    <attribute id="V2" type="float" value="0.40625"/>
+                </node>		
+            </children>
+        </node>
+    </region>
+</save>
