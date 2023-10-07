@@ -101,3 +101,12 @@ data "SpellFail" "DealDamage((4d8 + 5)/2,Radiant)"
 data "TooltipStatusApply" "ApplyStatus(FRIGHTENED, 100, 2)"
 data "TooltipDamageList" "DealDamage(4d8 + 5,Radiant)"
 
+
+
+
+new entry "Shout_LYKON_KnowledgeOfTheAges"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_KnowledgeOfTheAges"
+data "Cooldown" "OncePerRestPerItem"
+data "UseCosts" "ActionPoint:1"
