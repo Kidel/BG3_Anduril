@@ -27,7 +27,7 @@ data "CastEffect" "4f8e353e-c04e-45c3-880b-d10885fd091f"
 data "TargetEffect" "68b1219a-ccc2-4b29-bb42-b18996de3b4d"
 
 
-new entry "Target_LYKON_NymphCloak_Dominate_Beast"
+new entry "Target_LYKON_Dominate_Beast"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_DominateBeast"
