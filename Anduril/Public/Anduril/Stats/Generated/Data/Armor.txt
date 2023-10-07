@@ -3,9 +3,10 @@ type "Armor"
 using "_Ring"
 data "RootTemplate" "9cee9922-77a9-11ec-90d6-0242ac120003"
 data "ObjectCategory" "Jewelry"
-data "ValueOverride" "2"
+data "ValueOverride" "1"
 data "Rarity" "Legendary"
-data "Boosts" "Skill(Stealth,20);Skill(SleightOfHand,20);UnlockSpell(LYKON_Target_Invisibility_Superior)"
+data "Boosts" "Skill(Stealth,20);Skill(SleightOfHand,20);UnlockSpell(Shout_KnowledgeOfTheAges);UnlockSpell(Target_MAG_NymphCloak_Dominate_Person);UnlockSpell(Target_LYKON_NymphCloak_Dominate_Beast)"
+data "PassivesOnEquip" "LYKON_Ring_Invisibility_Passive"
 
 
 new entry "Lykon_Elven_Armor"
