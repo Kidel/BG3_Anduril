@@ -18,6 +18,7 @@ data "ValueOverride" "7"
 data "Weight" "0.01"
 data "Rarity" "VeryRare"
 data "Proficiency Group" "MediumArmor"
+data "PassivesOnEquip" "MAG_PHB_ElvenChain_Armor_Passive;MAG_PHB_ElvenChain_AddedEffect_Armor_Passive;MAG_FlexibleArmor_Defense_Passive;MAG_CharismaCaster_CantripBooster_Passive"
 data "Boosts" "AC(2);Resistance(Acid, Resistant);UnlockSpell(Target_Friends);AbilityOverrideMinimum(Charisma,18);CriticalHit(AttackTarget,Success,Never)"
 
 new entry "Lykon_LC_Umberlee_Regeneration_Robe"
